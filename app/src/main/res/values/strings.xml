@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GOrganizer</string>
+    <string name="hint_username">Enter your username!</string>
+    <string name="hint_password">Enter your password!</string>
 </resources>
